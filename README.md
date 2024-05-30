@@ -10,4 +10,4 @@
 # 文献情報
 * 堀口 航輝, 梶原 智之, 二宮 崇, 若宮 翔子, 荒牧 英治.  
   日本語医療テキスト平易化の訓練用データセットの構築.  
-  人工知能学会第38回全国大会, 3S1-OS-7b, 2024. [[to appear](https://confit.atlas.jp/guide/event/jsai2024/subject/3S1-OS-7b-04/tables?cryptoId=)]
+  人工知能学会第38回全国大会, 3S1-OS-7b, 2024. [[PDF](https://confit.atlas.jp/guide/event-img/jsai2024/3S1-OS-7b-04/public/pdf?type=in)]
